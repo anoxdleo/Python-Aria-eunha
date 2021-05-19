@@ -1,1 +1,1 @@
-worker: ./aria.sh; python3 -m bot
+worker: bash start.sh
